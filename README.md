@@ -19,7 +19,7 @@ It uses a Convolutional Neural Network (CNN) trained to classify images, and dep
 * **Training Environment:** Google Colab (for free GPU access)
 
 ## 📸 Demo
-![Uploading Demo.gif…]()
+![Demo](https://github.com/user-attachments/assets/3e9b95b7-ed17-467f-8000-adaa1ca27967)
 
 ## 🎬 How to Run
 
