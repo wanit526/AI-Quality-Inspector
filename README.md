@@ -19,8 +19,7 @@ It uses a Convolutional Neural Network (CNN) trained to classify images, and dep
 * **Training Environment:** Google Colab (for free GPU access)
 
 ## 📸 Demo
-![Demo GIF of the AI Inspector App](![Demo](https://github.com/user-attachments/assets/cd226745-fa02-4a0b-b804-572bbeba4b93)
-)
+![Uploading Demo.gif…]()
 
 ## 🎬 How to Run
 
